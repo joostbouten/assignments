@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.26)  2 NOV 2017 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.26)  2 NOV 2017 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1310,11 +1310,11 @@ Package rerunfilecheck Info: File `SNSBassignment1.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 572.
  ) 
 Here is how much of TeX's memory you used:
- 20427 strings out of 492995
- 346481 string characters out of 6132704
- 428171 words of memory out of 5000000
+ 20429 strings out of 492995
+ 346501 string characters out of 6132704
+ 428200 words of memory out of 5000000
  23622 multiletter control sequences out of 15000+600000
- 98516 words of font info for 136 fonts, out of 8000000 for 9000
+ 98599 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,12n,38p,10387b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1336,7 +1336,7 @@ ist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmsy5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy7
 .pfb>
-Output written on SNSBassignment1.pdf (11 pages, 248041 bytes).
+Output written on SNSBassignment1.pdf (11 pages, 248729 bytes).
 PDF statistics:
  215 PDF objects out of 1000 (max. 8388607)
  183 compressed objects within 2 object streams
