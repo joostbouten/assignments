@@ -1,8 +1,6 @@
 # Assignments
 This repository contains my assignments
 
-* [Assignment 1]()
+* [Final Assignment]()
 
-* [Assignment 2]()
-
-* [My CV](https://github.com/joostbouten/assignments/blob/master/CV.md)
+You may want to [see](https://github.com/joostbouten/assignments/blob/master/Final%20Assignment%20/AEA_Joost_Twan.ipynb) the jupyter notebook file for this assignment, but the html file supports internal links.
